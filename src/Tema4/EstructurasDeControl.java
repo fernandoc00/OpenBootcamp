@@ -109,8 +109,7 @@ public class EstructurasDeControl {
             numeroFor++;
             System.out.println(numeroFor);
         }
-        
-        
+
 
     }    
 }
